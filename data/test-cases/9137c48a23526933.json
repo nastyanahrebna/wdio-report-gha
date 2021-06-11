@@ -1,0 +1,70 @@
+{
+  "uid" : "9137c48a23526933",
+  "name" : "should have search button",
+  "fullName" : "Search page.should have search button",
+  "historyId" : "8d9bbf56cbdd3e17bdd4878a6b736ccd",
+  "time" : {
+    "start" : 1623424742126,
+    "stop" : 1623424742291,
+    "duration" : 165
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Search page"
+  }, {
+    "name" : "testClass",
+    "value" : "Search page"
+  }, {
+    "name" : "testMethod",
+    "value" : "should have search button"
+  }, {
+    "name" : "package",
+    "value" : "Search page"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "Platform",
+    "value" : "linux"
+  }, {
+    "name" : "Release",
+    "value" : "5.8.0-1033-azure"
+  }, {
+    "name" : "Version",
+    "value" : "x64"
+  }, {
+    "name" : "browser",
+    "value" : "chrome-91.0.4472.77"
+  }, {
+    "name" : "browserVersion",
+    "value" : "91.0.4472.77"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "9137c48a23526933.json",
+  "parameterValues" : [ "linux", "5.8.0-1033-azure", "x64", "chrome-91.0.4472.77", "91.0.4472.77" ]
+}

@@ -1,0 +1,35 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "Search page",
+    "children" : [ {
+      "name" : "should open home page",
+      "uid" : "de7b4443987e756d",
+      "parentUid" : "8adc9805481480f305814d0ce92d58fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623424741342,
+        "stop" : 1623424742124,
+        "duration" : 782
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "linux", "5.8.0-1033-azure", "x64", "chrome-91.0.4472.77", "91.0.4472.77" ]
+    }, {
+      "name" : "should have search button",
+      "uid" : "9137c48a23526933",
+      "parentUid" : "8adc9805481480f305814d0ce92d58fc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1623424742126,
+        "stop" : 1623424742291,
+        "duration" : 165
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "linux", "5.8.0-1033-azure", "x64", "chrome-91.0.4472.77", "91.0.4472.77" ]
+    } ],
+    "uid" : "8adc9805481480f305814d0ce92d58fc"
+  } ],
+  "name" : "suites"
+}

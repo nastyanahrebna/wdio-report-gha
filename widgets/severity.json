@@ -1,0 +1,21 @@
+[ {
+  "uid" : "9137c48a23526933",
+  "name" : "should have search button",
+  "time" : {
+    "start" : 1623424742126,
+    "stop" : 1623424742291,
+    "duration" : 165
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "de7b4443987e756d",
+  "name" : "should open home page",
+  "time" : {
+    "start" : 1623424741342,
+    "stop" : 1623424742124,
+    "duration" : 782
+  },
+  "status" : "passed",
+  "severity" : "normal"
+} ]
